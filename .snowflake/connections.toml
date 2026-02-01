@@ -1,0 +1,9 @@
+[dev]
+    account=""
+    user=""
+    password=""
+    warehouse="COMPUTE_WH"
+    database="API_DATA"
+    schema="DBO"
+    role="ACCOUNTADMIN"
+    
